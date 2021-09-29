@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Isaac
+- 👀 I’m interested in Computational Biology, BioInformations with target miRNA prediction.
+- 🌱 I’m currently learning discrete structure.
+- 📫 How to reach me 2starwook@gmail.com
